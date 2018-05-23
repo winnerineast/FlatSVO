@@ -1,2 +1,8 @@
 # FlatSVO
-replicate SVO from ROS to cross-platform
+利用SVO推断摄像机的运动路径和姿态。
+# 安装
+1. 选择ROS Indigo Igloo + Ubuntu Desktop 14.04.1 LTS 64Bits的虚拟机镜像，这样方便编译SVO。
+2. 会使用youtube的一些影片来模拟摄像机。
+3. 想办法桥接笔记本摄像头和虚拟机来实际测试效果。
+4. 存储摄像机运动路径，然后打标签拍摄视频特征。
+5. 学习路径，生成摄像机运动指令控制拍摄。
